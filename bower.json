@@ -1,0 +1,11 @@
+{
+  "name": "UnityLumber",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rickyah/UnityLumber",
+  "authors": [
+    "Ricardo Amores <rickyah@gmail.com>"
+  ],
+  "description": "Very basic logging system that allows to create rich text logs before dumping them to the Unity3D console",
+  "license": "MIT",
+  "private": true
+}
